@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27c90e71-5943-4ab3-bb9a-f640dcc1da5d" name="Default Changelist" comment="" />
+    <list default="true" id="27c90e71-5943-4ab3-bb9a-f640dcc1da5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/aggregates/exceptions/InsufficientBalanceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/commands/WithdrawMoneyCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/events/MoneyWithdrawnEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/aggregates/AccountAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/aggregates/AccountAggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/commands/AccountCreateCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/commands/AccountCreateCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/commands/BaseCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/commands/BaseCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/commands/DepositMoneyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/commands/DepositMoneyCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/events/AccountCreatedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/events/AccountCreatedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/events/BaseEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/events/BaseEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/events/MoneyDepositedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample-axon-command/src/main/java/me/potato/cqrs/sampleaxonkafka/events/MoneyDepositedEvent.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +30,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -35,12 +52,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.potato.cqrs.sampleaxonkafka.aggregates" />
+      <recent name="me.potato.cqrs.sampleaxonkafka.aggregates.exception" />
       <recent name="me.potato.cqrs.sampleaxonkafka.events" />
       <recent name="me.potato.cqrs.sampleaxonkafka.commands" />
     </key>
@@ -96,6 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581571701524</updated>
       <workItem from="1581571703106" duration="5003000" />
+      <workItem from="1581581508844" duration="1754000" />
     </task>
     <servers />
   </component>
@@ -103,10 +124,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="4373" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1581581303410">
+    <state x="4373" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1581582148838">
       <screen x="3600" y="23" width="1920" height="1057" />
     </state>
-    <state x="4373" y="274" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027/1680.23.1920.1057/3600.23.1920.1057@3600.23.1920.1057" timestamp="1581581303410" />
+    <state x="4373" y="274" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027/1680.23.1920.1057/3600.23.1920.1057@3600.23.1920.1057" timestamp="1581582148838" />
     <state x="4119" y="224" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1581577168730">
       <screen x="3600" y="23" width="1920" height="1057" />
     </state>
@@ -115,9 +136,17 @@
       <screen x="3600" y="23" width="1920" height="1057" />
     </state>
     <state x="4318" y="147" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.1027/1680.23.1920.1057/3600.23.1920.1057@3600.23.1920.1057" timestamp="1581573613173" />
+    <state x="4069" y="190" key="SettingsEditor" timestamp="1581582823337">
+      <screen x="3600" y="23" width="1920" height="1057" />
+    </state>
+    <state x="4069" y="190" key="SettingsEditor/0.23.1680.1027/1680.23.1920.1057/3600.23.1920.1057@3600.23.1920.1057" timestamp="1581582823337" />
     <state x="3989" y="249" key="new project wizard" timestamp="1581572972755">
       <screen x="3600" y="23" width="1920" height="1057" />
     </state>
     <state x="3989" y="249" key="new project wizard/0.23.1680.1027/1680.23.1920.1057/3600.23.1920.1057@3600.23.1920.1057" timestamp="1581572972755" />
+    <state x="4225" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1581582868540">
+      <screen x="3600" y="23" width="1920" height="1057" />
+    </state>
+    <state x="4225" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027/1680.23.1920.1057/3600.23.1920.1057@3600.23.1920.1057" timestamp="1581582868540" />
   </component>
 </project>
