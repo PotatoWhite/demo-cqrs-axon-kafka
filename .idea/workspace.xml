@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27c90e71-5943-4ab3-bb9a-f640dcc1da5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XjuD0L0HgBoEqbjnC2WHf1NFsi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.potato.cqrs.sampleaxonkafka.events" />
+      <recent name="me.potato.cqrs.sampleaxonkafka.commands" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SampleAxonKafkaApplication">
+    <configuration name="SampleAxonKafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sample-axon-command" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="me.potato.cqrs.sampleaxonkafka.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleAxonQueryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sample-axon-query" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="me.potato.cqrs.sampleaxonquery.SampleAxonQueryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27c90e71-5943-4ab3-bb9a-f640dcc1da5d" name="Default Changelist" comment="" />
+      <created>1581571701524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581571701524</updated>
+      <workItem from="1581571703106" duration="5003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4373" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1581581303410">
+      <screen x="3600" y="23" width="1920" height="1057" />
+    </state>
+    <state x="4373" y="274" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027/1680.23.1920.1057/3600.23.1920.1057@3600.23.1920.1057" timestamp="1581581303410" />
+    <state x="4119" y="224" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1581577168730">
+      <screen x="3600" y="23" width="1920" height="1057" />
+    </state>
+    <state x="4119" y="224" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1680.1027/1680.23.1920.1057/3600.23.1920.1057@3600.23.1920.1057" timestamp="1581577168730" />
+    <state x="4318" y="147" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581573613173">
+      <screen x="3600" y="23" width="1920" height="1057" />
+    </state>
+    <state x="4318" y="147" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.1027/1680.23.1920.1057/3600.23.1920.1057@3600.23.1920.1057" timestamp="1581573613173" />
+    <state x="3989" y="249" key="new project wizard" timestamp="1581572972755">
+      <screen x="3600" y="23" width="1920" height="1057" />
+    </state>
+    <state x="3989" y="249" key="new project wizard/0.23.1680.1027/1680.23.1920.1057/3600.23.1920.1057@3600.23.1920.1057" timestamp="1581572972755" />
+  </component>
+</project>
